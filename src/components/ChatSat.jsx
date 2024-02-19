@@ -59,7 +59,7 @@ const ChatSat = () => {
 
                         <div className='flex items-center gap-2'>
                             <div><TbLogout2 /></div>
-                            <div className='-mt-1 text-sm'>Sign Out</div>
+                            <div className='-mt-1 text-sm cursor-pointer'>Sign Out</div>
                         </div>
                     </div>
                 </div>
