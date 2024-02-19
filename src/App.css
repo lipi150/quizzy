@@ -1,0 +1,22 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.box-shadow {
+
+    box-shadow: inset 0 0 3px #a4b5aee9; 
+  }
+.background-gradient{
+    background: linear-gradient(to bottom, #364A41, #2D2D2D);
+}  
+
+.background-circle{
+    background: conic-gradient(
+        #EDFF87 0deg 270deg, 
+        #394440 270deg 360deg 
+      );
+}
+
+
+
+
